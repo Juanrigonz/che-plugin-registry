@@ -66,13 +66,49 @@
         "id": "vscjava.vscode-java-test"
     },
     {
+        "id": "vscjava.vscode-java-dependency"
+    },
+    {
+        "id": "vscjava.vscode-java-pack"
+    },
+    {
+        "id": "vscjava.vscode-maven"
+    },
+    {
+        "id": "VisualStudioExptTeam.vscodeintellicode"
+    },
+    {
+        "id": "redhat.apache-camel-extension-pack"
+    },
+    {
         "id": "redhat.vscode-microprofile"
     },
     {
         "id": "redhat.vscode-apache-camel"
     },
     {
+        "id": "redhat.vscode-debug-adapter-apache-camel"
+    },
+    {
         "id": "redhat.vscode-camelk"
+    },
+    {
+        "id": "redhat.vscode-kaoto"
+    },
+    {
+        "id": "redhat.atlasmap-viewer"
+    },
+    {
+        "id": "vmware.vscode-boot-dev-pack"
+    },
+    {
+        "id": "vmware.vscode-spring-boot"
+    },
+    {
+        "id": "vscjava.vscode-spring-initializr"
+    },
+    {
+        "id": "vscjava.vscode-spring-boot-dashboard"
     },
     {
         "id": "vscode.html-language-features"
